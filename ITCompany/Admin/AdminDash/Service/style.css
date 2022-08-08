@@ -1,0 +1,21 @@
+.my-btn1{
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #0a89ff;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+.my-btn1:hover{
+    background-color: #FFD322;
+    color: white;
+}
+
+.active{
+    background-color: #FF9E22;
+    color: white;
+}
+
