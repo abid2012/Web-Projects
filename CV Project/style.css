@@ -1,0 +1,34 @@
+.myimg{
+    border-radius: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.my-left-div{
+    background-image: linear-gradient(skyblue, rgb(0, 106, 171));
+    height: 600px;
+}
+
+.b-bottom{
+    border-bottom: 2px white solid;
+}
+
+.bb{
+    border-bottom: 2px white solid;
+    width: 340px;
+}
+
+.my-name{
+    color: white;
+    text-align: center;
+}
+
+.link-color{
+    color: white;
+}
+
+.link-color:hover{
+    cursor: pointer;
+    color: yellow;
+}
